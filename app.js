@@ -3,7 +3,7 @@
 // // 1. Then
 // // Promises used = 3 
 // // first is the fetch.then(response => 
-// // second make that promise readablke by the frontend with.json added to the response.
+// // second make that promise readable by the frontend with.json added to the response.
 // // third is adding .then(data => to access the data from the second promise
 // // fetch('https://jsonplaceholder.typicode.com/users/1').then(response => {
 // //     response.json().then(data => {
